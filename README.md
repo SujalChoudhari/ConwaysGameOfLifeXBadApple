@@ -2,6 +2,8 @@
 
 **Overview**
 
+https://youtu.be/QapPGajeLyw
+
 This project is an implementation of Conway's Game of Life, a famous cellular automaton, with a twist: it incorporates "Bad Apple" to influence the game's evolution. The game is simulated using the Pygame library, and the video is processed using OpenCV.
 
 **How it works**
